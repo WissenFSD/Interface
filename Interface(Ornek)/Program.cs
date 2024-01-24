@@ -47,6 +47,8 @@
 
 
             }
+
+            // Bir metoda paramtre olarak interface alırsak. Bu metoda interface'i implement etmiş tüm sınıflar parametre olarak gelebilirler.
             static void UctuClass(IUcabilir ucabilir)
             {
 
