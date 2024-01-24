@@ -21,6 +21,8 @@ namespace Interface_Ornek_
         {
             Console.WriteLine("Süründü");
         }
+
+       
     }
     public class Karga : IUcabilir
     {
